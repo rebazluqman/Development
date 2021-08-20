@@ -32,12 +32,16 @@ const dateFormat = require('dateformat');
 
 
 
+const prefix = "" //prefix e bot dabni
 
 const prefix = "" //prefix e bot dabni 
 const developers = "" // id  acwnte xot dabni
 
 
 
+const prefix = "-" //
+const developers = "667123748838572042" //
 
 
 client.login("");//tokne bot dabne
+client.login("ODc4MzY2MDgyNjk4NzI3NTE2.YSAIKQ.ojFbiHcZ1I9VCTxmcIIlV3pRSG8");//
